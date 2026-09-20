@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Linguistics, University of Alberta, 2030 (expected)
+* Post-baccalaureate Study in Linguistics, Columbia University, 2026
+* MA in Classical Studies, University of Texas at Austin, 2024
+* BA in Linguistics, University of Texas at Austin, 2022
 
 Work experience
 ======
