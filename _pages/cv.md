@@ -18,20 +18,20 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2025---Present: Research assistant
+  * Department of Slavic Languages, Columbia University
+  * Duties includes: Digitized & analyzed 315 pages of hand-written survey response data
+  * Supervisor: Dr. Marina Tsylina
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024---Summer 2026: Research assistant
+  * Department of Computer Science, Columbia University
+  * Duties included: Reannotated 75+ hours of corpus audio & conducted literature review
+  * Supervisor: Dr. Julia Hirschberg
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2024---Summer 2025: Research assistant
+  * Department of Psychology, Columbia University
+  * Duties included: Administered experimental protocol for 28 participants
+  * Supervisor: Dr. Alfredo Spagna
   
 Skills
 ======
