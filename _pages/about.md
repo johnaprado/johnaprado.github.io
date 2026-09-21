@@ -11,7 +11,7 @@ John here. I am a graduate student in the Department of Linguistics at the Unive
 
 Previously, I have earned an M.A. in classical language pedagogy and a B.A. in linguistics from the University of Texas at Austin. In the past, I have worked in historical pragmatics, generative (Latin) metrics, and classical language pedagogy. I hold a Texas State EC--12 teaching certificate for Latin; my practice is informed by the Culturally Responsive Teaching framework. 
 
-Please get in touch! I'm reachable via email: [japrado "at" ualberta "dot" ca]. My surname is the Spanish word for "meadow;" the English speaker will be most comfortable saying [pɹɑdoʊ̯], but the Spanish realization is [pɾɑðo]. 
+Please get in touch! I'm reachable via email: [_japrado_ "at" _ualberta_ "dot" _ca_]. My surname is the Spanish word for "meadow;" the English speaker will be most comfortable saying [pɹɑdoʊ̯], but the Spanish realization is [pɾɑðo]. 
 
 A data-driven personal website
 ======
