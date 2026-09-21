@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-John here. I am a graduate student in the Department of Linguistics at the University of Alberta and a research assistant in the Department of Slavic Languages at Columbia University. My primary applied interests are language reclamation---revitalization and linguistics teaching, and my theoretical interest is in formal semantics, in particular in irreality & modality, associated motion, and clausal coordination.
+John here. I am a graduate student in the Department of Linguistics at the University of Alberta and a research assistant in the Department of Slavic Languages at Columbia University. My theoretical interest is in formal semantics, including irreality & modality, associated motion, and clausal coordination, and my primary applied interests are language reclamation---revitalization and critical pedagogy. I am also interested in constructed language studies, aesthetics, and art ethics.
 
-Previously, I have earned an M.A. in classical language pedagogy and a B.A. in linguistics from the University of Texas at Austin. I hold a Texas State EC--12 teaching certificate for Latin; my practice is informed by the Culturally Responsive Teaching framework. Please get in touch! I'm reachable via email: [japrado "at" ualberta "dot" ca].
+Previously, I have earned an M.A. in classical language pedagogy and a B.A. in linguistics from the University of Texas at Austin. In the past, I have worked in historical pragmatics, generative (Latin) metrics, and classical language pedagogy. I hold a Texas State EC--12 teaching certificate for Latin; my practice is informed by the Culturally Responsive Teaching framework. 
 
-My surname is the Spanish word for "meadow." The English speaker will be most comfortable saying [pɹɑdoʊ̯], but the Spanish realization is [pɾɑðo]. 
+Please get in touch! I'm reachable via email: [japrado "at" ualberta "dot" ca]. My surname is the Spanish word for "meadow;" the English speaker will be most comfortable saying [pɹɑdoʊ̯], but the Spanish realization is [pɾɑðo]. 
 
 A data-driven personal website
 ======
