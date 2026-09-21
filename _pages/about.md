@@ -13,7 +13,7 @@ Previously, I have earned an M.A. in classical language pedagogy and a B.A. in l
 
 Please get in touch! I'm reachable via email: [ _japrado_ "at" _ualberta_ "dot" _ca_ ]. My surname is the Spanish word for "meadow;" the English speaker will be most comfortable saying [pɹɑdoʊ̯], but the Spanish realization is [pɾɑðo]. 
 
-A data-driven personal website
+% A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
