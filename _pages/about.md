@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! John here. I am a graduate student in the Department of Linguistics at the University of Alberta and a research assistant in the Department of Slavic Languages at Columbia University. My primary applied interests are language reclamation---revitalization and linguistics teaching, and my theoretical interest is in formal semantics, in particular in irreality & modality, associated motion, and clausal coordination.
+John here. I am a graduate student in the Department of Linguistics at the University of Alberta and a research assistant in the Department of Slavic Languages at Columbia University. My primary applied interests are language reclamation---revitalization and linguistics teaching, and my theoretical interest is in formal semantics, in particular in irreality & modality, associated motion, and clausal coordination.
 
 Previously, I have earned an M.A. in classical language pedagogy and a B.A. in linguistics from the University of Texas at Austin. I hold a Texas State EC--12 teaching certificate for Latin; my practice is informed by the Culturally Responsive Teaching framework. Please get in touch! I'm reachable via email: [japrado "at" ualberta "dot" ca].
 
