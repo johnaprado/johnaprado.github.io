@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-CA"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "John Prado"
 title_separator          : "-"
 name                     : &name "John Prado"
@@ -24,9 +24,9 @@ repository               : "johnaprado/johnaprado.github.io"
 author:
   # Biographic information
   avatar           : "IMG_2025_shorter.JPEG"
-  name             : "Your Sidebar Name"
+  name             : "John Prado"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Linguist and educator"
   location         : "Edmonton, AB"
   employer         : "University of Alberta"
   uri              : # URL
