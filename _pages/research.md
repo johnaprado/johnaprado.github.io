@@ -9,7 +9,7 @@ redirect_from:
 
 {% include toc %}
 
-## Locations of key files/directories
+## Modality and irreality
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
