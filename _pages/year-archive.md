@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
+
 {% include toc %}
 
 {% include base_path %}
