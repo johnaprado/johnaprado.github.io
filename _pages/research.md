@@ -7,8 +7,6 @@ redirect_from:
   - /research.html
 ---
 
-{% include toc %}
-
 ## Modality and irreality
 
 * Basic config options: _config.yml
