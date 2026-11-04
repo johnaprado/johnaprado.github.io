@@ -9,9 +9,9 @@ redirect_from:
 
 ## Modality and irreality
 
-## Associated motion
+## Coordination and formal discourse analysis
 
-## Coordination and discourse
+## Associated motion
 
 ## Writing acquisition and student self-perception
 
